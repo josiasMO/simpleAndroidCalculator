@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/josias/Documents/github/ReactNative/FirstApp/Calculator/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/josias/Documents/github/ReactNative/FirstApp/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_6188415109e3cf41dab556772e6218cfe557bf08/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josias/Documents/github/ReactNative/FirstApp/Calculator/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/josias/Documents/github/ReactNative/FirstApp/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_ecf12fd0c66ea6da3ab550cf203edc6ac70a54a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josias/Documents/github/ReactNative/FirstApp/Calculator/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/josias/Documents/github/ReactNative/FirstApp/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_611884792e5cbb48527bb1ce1fcf3a5bc8692b31/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josias/Documents/github/ReactNative/FirstApp/Calculator/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/josias/Documents/github/ReactNative/FirstApp/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_26e6ae725f9359a220d040713011d82dcc41a23e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josias/Documents/github/ReactNative/FirstApp/Calculator/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/josias/Documents/github/ReactNative/FirstApp/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_da29207674448a99f4b784ce8939a14a43aef219/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josias/Documents/github/ReactNative/FirstApp/Calculator/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f075c8dd0bb2d19e0b96ca15024e3d0a451598d">
+        <dex dex="/Users/josias/Documents/github/ReactNative/FirstApp/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_86b0c932e3df1200eb18a17a0e141c829cc9e580/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josias/Documents/github/ReactNative/FirstApp/Calculator/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/josias/Documents/github/ReactNative/FirstApp/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_95b7871d30b63a128b8db120132ae44a8ab79100/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josias/Documents/github/ReactNative/FirstApp/Calculator/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/josias/Documents/github/ReactNative/FirstApp/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_8a4ee7970f0cde04bb8fa55403235a9b03d4e61d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josias/Documents/github/ReactNative/FirstApp/Calculator/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/josias/Documents/github/ReactNative/FirstApp/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_eb8f97fa440154ddd517122d995fc081969bb3db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josias/Documents/github/ReactNative/FirstApp/Calculator/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/josias/Documents/github/ReactNative/FirstApp/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_98c1e8939824a9be50b07a4c86337f932f7584a5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josias/Documents/github/ReactNative/FirstApp/Calculator/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/josias/Documents/github/ReactNative/FirstApp/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_6e837752782955a2d9350a6d93272c25bd3c476e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josias/Documents/github/ReactNative/FirstApp/Calculator/app/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5025063c4c03baa1b6759432195024dd8e5a3f92">
+        <dex dex="/Users/josias/Documents/github/ReactNative/FirstApp/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-gridlayout-v7-25.0.0_76897bd4f95d12698771004cfcc256256d8bfc19/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josias/Documents/github/ReactNative/FirstApp/Calculator/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/josias/Documents/github/ReactNative/FirstApp/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_b9416fbf334ff82ab6ea081cb60b00aa8088ef3e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josias/Documents/github/ReactNative/FirstApp/Calculator/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fee31663cb527191951265f92e30102962638215">
+        <dex dex="/Users/josias/Documents/github/ReactNative/FirstApp/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d3f8a2fc94e3b8cd5b9bb43d4424dfd8f81a7051/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josias/Documents/github/ReactNative/FirstApp/Calculator/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/josias/Documents/github/ReactNative/FirstApp/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_e4673ee6511e889ea28154863c08e2f7cf1a29c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josias/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/josias/Documents/github/ReactNative/FirstApp/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_17e9f0c4623a9396ef8e5e30c99e819ac96b98b5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josias/Documents/github/ReactNative/FirstApp/Calculator/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/josias/Documents/github/ReactNative/FirstApp/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_173b84bd1b1642042def23bd0b0e25d85b407f35/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josias/Documents/github/ReactNative/FirstApp/Calculator/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/josias/Documents/github/ReactNative/FirstApp/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_e010b0dc5a7d240fee10de078993fce753bcbfa1/classes.dex" />
+    </item>
+
+</items>
